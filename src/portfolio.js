@@ -171,15 +171,15 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "C# Software Developer",
+      role: "C# & Asp.net Developer",
       company: "Internship @ I-Logic Software",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "May 2019 – June 2019 ",
       desc:
         "Worked on diffrent domain  ",
       descBullets: [
-        "C#",
-        "Sql Server 2015",
+        "Worked along with their IT team C# developement and learned about work culture",
+        "Learned about saveral technologies like c#, Asp.net, Sql Server 2015 for smooth development",
       ],
     },
     {
