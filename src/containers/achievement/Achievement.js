@@ -11,7 +11,8 @@ export default function Achievement() {
     win.focus();
   }
   return (
-    <Fade bottom duration={1000} distance="20px">
+    <div>
+    {/* <Fade bottom duration={1000} distance="20px">
       <div className="main" id="achievements">
         <div className="achievement-main-div">
           <div className="achievement-header">
@@ -51,6 +52,7 @@ export default function Achievement() {
           </div>
         </div>
       </div>
-    </Fade>
+    </Fade> */}
+    </div>
   );
 }

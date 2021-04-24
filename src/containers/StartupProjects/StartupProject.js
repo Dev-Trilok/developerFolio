@@ -11,6 +11,7 @@ export default function StartupProject() {
   }
   const { isDark } = useContext(StyleContext);
   return (
+   
     <Fade bottom duration={1000} distance="20px">
       <div className="main" id="projects">
         <div>
@@ -42,5 +43,6 @@ export default function StartupProject() {
         </div>
       </div>
     </Fade>
+   
   );
 }

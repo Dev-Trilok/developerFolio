@@ -10,8 +10,9 @@ export default function BlogCard({ blog, isDark }) {
   }
 
   return (
-    <div onClick={() => openUrlInNewTab(blog.url)}>
-      <div class={isDark ? "blog-container dark-mode" : "blog-container"}>
+  <div>
+  {/* <div onClick={() => openUrlInNewTab(blog.url)}> */}
+      {/* <div class={isDark ? "blog-container dark-mode" : "blog-container"}>
         <a
           class={isDark ? "dark-mode blog-card blog-card-shadow" : "blog-card"}
           href="#blog"
@@ -26,7 +27,8 @@ export default function BlogCard({ blog, isDark }) {
             <div class="go-arrow">→</div>
           </div>
         </a>
-      </div>
+      </div> */}
+    {/* </div> */}
     </div>
   );
 }

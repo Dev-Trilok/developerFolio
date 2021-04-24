@@ -4,7 +4,7 @@ import "./TalkCard.css";
 export default function TalkCard({ talkDetails }) {
   return (
     <div>
-      <div class="container">
+      {/* <div class="container">
         <div
           class={talkDetails.isDark ? "dark-rectangle rectangle" : "rectangle"}
         >
@@ -21,7 +21,7 @@ export default function TalkCard({ talkDetails }) {
             </a>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

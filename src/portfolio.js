@@ -12,7 +12,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1HF2BkGbx1GJo47efNmvxRuZxT6A_B8VL/view?usp=sharing",
 };
 
 // Your Social Media Link
@@ -173,7 +173,7 @@ const workExperiences = {
     {
       role: "C# & Asp.net Developer",
       company: "Internship @ I-Logic Software",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/ilogic.jfif"),
       date: "May 2019 – June 2019 ",
       desc:
         "Worked on diffrent domain  ",
@@ -185,7 +185,7 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Internship @ HKinternaltional.net",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/hkinjpg.jpg"),
       date: "June 2020 – July 2020",
       desc:
         "Created and Host E-Commerce website for business firm.",
@@ -206,18 +206,18 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "dev-trilok", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "Dev-Trilok", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/hkinjpg.jpg"),
       link: "http://hkinternational.net/",
     },
     // {
@@ -345,14 +345,14 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com",
+  number: "+91-9960654964",
+  email_address: "trilok3798@gmail.com",
 };
 
 //Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "its_trilok_007", //Replace "twitter" with your twitter username without @
 };
 export {
   greeting,

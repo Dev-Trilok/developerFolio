@@ -7,7 +7,8 @@ import StyleContext from "../../contexts/StyleContext";
 export default function Podcast() {
   const { isDark } = useContext(StyleContext);
   return (
-    <Fade bottom duration={1000} distance="20px">
+    <div>
+    {/* <Fade bottom duration={1000} distance="20px">
       <div className="main">
         <div className="podcast-header">
           <h1 className="podcast-header-title">{podcastSection.title}</h1>
@@ -36,6 +37,7 @@ export default function Podcast() {
           })}
         </div>
       </div>
-    </Fade>
+    </Fade> */}
+    </div>
   );
 }
