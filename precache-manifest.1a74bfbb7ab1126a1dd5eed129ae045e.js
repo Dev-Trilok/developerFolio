@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2020b6277833d1e74411a0c24e2c9463",
+    "revision": "274a2937a88b2756988ef768a16d4cd6",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "cad0b7b6f213ba844c8c",
+    "revision": "ea390cbf934f4306a0d4",
     "url": "/portfolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "5979d9f92b2dd165f1c7",
+    "revision": "58792d367dd37d6d1522",
     "url": "/portfolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "2843d7a930cf834c873a",
+    "revision": "8a199f2e839ed394ed9c",
     "url": "/portfolio/static/css/main.21a6794c.chunk.css"
   },
   {
-    "revision": "042a04043f65b0830fff",
-    "url": "/portfolio/static/js/2.e3a50b52.chunk.js"
+    "revision": "130a8ab5a375b63c1a99",
+    "url": "/portfolio/static/js/2.1a9c8ea3.chunk.js"
   },
   {
-    "revision": "cad0b7b6f213ba844c8c",
-    "url": "/portfolio/static/js/3.c73b0990.chunk.js"
+    "revision": "ea390cbf934f4306a0d4",
+    "url": "/portfolio/static/js/3.469fe9ab.chunk.js"
   },
   {
-    "revision": "5979d9f92b2dd165f1c7",
-    "url": "/portfolio/static/js/4.f67c2f97.chunk.js"
+    "revision": "58792d367dd37d6d1522",
+    "url": "/portfolio/static/js/4.dc2c2a9f.chunk.js"
   },
   {
-    "revision": "2843d7a930cf834c873a",
-    "url": "/portfolio/static/js/main.5a5ce268.chunk.js"
+    "revision": "8a199f2e839ed394ed9c",
+    "url": "/portfolio/static/js/main.d82fb5ea.chunk.js"
   },
   {
-    "revision": "2f51ae66d809e67f666d",
-    "url": "/portfolio/static/js/runtime-main.48e1cbba.js"
+    "revision": "e1b255a1e180c6d45dea",
+    "url": "/portfolio/static/js/runtime-main.ee14ebef.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83a05b10639d238bd8c5bbab279ab911",
     "url": "/portfolio/static/media/harvardLogo.83a05b10.png"
+  },
+  {
+    "revision": "e322fbfab5a53e9660060b867047642a",
+    "url": "/portfolio/static/media/hkinjpg.e322fbfa.jpg"
+  },
+  {
+    "revision": "799ffea52d7a003d019023e0055f25c7",
+    "url": "/portfolio/static/media/ilogic.799ffea5.jfif"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",

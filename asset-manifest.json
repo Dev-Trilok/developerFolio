@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.21a6794c.chunk.css",
-    "main.js": "/portfolio/static/js/main.5a5ce268.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5a5ce268.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.48e1cbba.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.48e1cbba.js.map",
-    "static/js/2.e3a50b52.chunk.js": "/portfolio/static/js/2.e3a50b52.chunk.js",
-    "static/js/2.e3a50b52.chunk.js.map": "/portfolio/static/js/2.e3a50b52.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d82fb5ea.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d82fb5ea.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.ee14ebef.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.ee14ebef.js.map",
+    "static/js/2.1a9c8ea3.chunk.js": "/portfolio/static/js/2.1a9c8ea3.chunk.js",
+    "static/js/2.1a9c8ea3.chunk.js.map": "/portfolio/static/js/2.1a9c8ea3.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/portfolio/static/css/3.00373544.chunk.css",
-    "static/js/3.c73b0990.chunk.js": "/portfolio/static/js/3.c73b0990.chunk.js",
-    "static/js/3.c73b0990.chunk.js.map": "/portfolio/static/js/3.c73b0990.chunk.js.map",
+    "static/js/3.469fe9ab.chunk.js": "/portfolio/static/js/3.469fe9ab.chunk.js",
+    "static/js/3.469fe9ab.chunk.js.map": "/portfolio/static/js/3.469fe9ab.chunk.js.map",
     "static/css/4.a922a401.chunk.css": "/portfolio/static/css/4.a922a401.chunk.css",
-    "static/js/4.f67c2f97.chunk.js": "/portfolio/static/js/4.f67c2f97.chunk.js",
-    "static/js/4.f67c2f97.chunk.js.map": "/portfolio/static/js/4.f67c2f97.chunk.js.map",
+    "static/js/4.dc2c2a9f.chunk.js": "/portfolio/static/js/4.dc2c2a9f.chunk.js",
+    "static/js/4.dc2c2a9f.chunk.js.map": "/portfolio/static/js/4.dc2c2a9f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.af5a7af3905334977085886ee364f07f.js": "/portfolio/precache-manifest.af5a7af3905334977085886ee364f07f.js",
+    "precache-manifest.1a74bfbb7ab1126a1dd5eed129ae045e.js": "/portfolio/precache-manifest.1a74bfbb7ab1126a1dd5eed129ae045e.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/portfolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/portfolio/static/css/4.a922a401.chunk.css.map",
@@ -29,6 +29,8 @@
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.c24ba791.svg",
     "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/harvardLogo.png": "/portfolio/static/media/harvardLogo.83a05b10.png",
+    "static/media/hkinjpg.jpg": "/portfolio/static/media/hkinjpg.e322fbfa.jpg",
+    "static/media/ilogic.jfif": "/portfolio/static/media/ilogic.799ffea5.jfif",
     "static/media/jsFramework.svg": "/portfolio/static/media/jsFramework.b05ae5b5.svg",
     "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
@@ -44,9 +46,9 @@
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48e1cbba.js",
-    "static/js/2.e3a50b52.chunk.js",
+    "static/js/runtime-main.ee14ebef.js",
+    "static/js/2.1a9c8ea3.chunk.js",
     "static/css/main.21a6794c.chunk.css",
-    "static/js/main.5a5ce268.chunk.js"
+    "static/js/main.d82fb5ea.chunk.js"
   ]
 }
