@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "274a2937a88b2756988ef768a16d4cd6",
+    "revision": "f8cacf27c3cc70991e531e9617c0027c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ea390cbf934f4306a0d4",
-    "url": "/portfolio/static/css/3.00373544.chunk.css"
+    "revision": "2d60156d9910b7e186c8",
+    "url": "/portfolio/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "58792d367dd37d6d1522",
-    "url": "/portfolio/static/css/4.a922a401.chunk.css"
+    "revision": "90d19f136dfb26e3e079",
+    "url": "/portfolio/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "8a199f2e839ed394ed9c",
-    "url": "/portfolio/static/css/main.21a6794c.chunk.css"
+    "revision": "5d8c60f2f01fbbcae277",
+    "url": "/portfolio/static/css/main.64a2fe4b.chunk.css"
   },
   {
     "revision": "130a8ab5a375b63c1a99",
     "url": "/portfolio/static/js/2.1a9c8ea3.chunk.js"
   },
   {
-    "revision": "ea390cbf934f4306a0d4",
+    "revision": "2d60156d9910b7e186c8",
     "url": "/portfolio/static/js/3.469fe9ab.chunk.js"
   },
   {
-    "revision": "58792d367dd37d6d1522",
-    "url": "/portfolio/static/js/4.dc2c2a9f.chunk.js"
+    "revision": "90d19f136dfb26e3e079",
+    "url": "/portfolio/static/js/4.0bc21f20.chunk.js"
   },
   {
-    "revision": "8a199f2e839ed394ed9c",
-    "url": "/portfolio/static/js/main.d82fb5ea.chunk.js"
+    "revision": "5d8c60f2f01fbbcae277",
+    "url": "/portfolio/static/js/main.165fa672.chunk.js"
   },
   {
-    "revision": "e1b255a1e180c6d45dea",
-    "url": "/portfolio/static/js/runtime-main.ee14ebef.js"
+    "revision": "723e4cf088919d41e850",
+    "url": "/portfolio/static/js/runtime-main.7f672b11.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -132,11 +132,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/stanfordLogo.3b758ef5.png"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/portfolio/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/portfolio/static/media/talksCardBack.39eff4a9.svg"
   },
   {
-    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
-    "url": "/portfolio/static/media/talksCardBackAlt.b48e86c9.svg"
+    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
+    "url": "/portfolio/static/media/talksCardBackAlt.7f0feeed.svg"
   }
 ]);
